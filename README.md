@@ -32,7 +32,7 @@ An adaptation of the original LeNet architecture with modern enhancements:
 
 ## Model Variants
 
-### Variant 1: Adaptive Learning Rate
+### Variant 1: Adaptive Learning Rate (same architecture)
 
 <img src="./architectures/images/model_1.PNG" alt="drawing" width="500"/>
 
