@@ -34,28 +34,28 @@ An adaptation of the original LeNet architecture with modern enhancements:
 
 ### Variant 1: Adaptive Learning Rate (same architecture)
 
-<img src="./architectures/images/model_1.PNG" alt="drawing" width="500"/>
+<img src="./architectures/images/model_1.PNG" alt="drawing" width="600"/>
 
 - **Change**: Learning rate halves every 5 epochs starting from 0.001.
 - **Purpose**: Fine-tunes the model by reducing optimization steps over time.
 
 ### Variant 2: Increased Convolutional Filters
 
-<img src="./architectures/images/model_2.PNG" alt="drawing" width="500"/>
+<img src="./architectures/images/model_2.PNG" alt="drawing" width="600"/>
 
 - **Change**: Increased filters from (6, 16) to (32, 64) in convolutional layers.
 - **Purpose**: Allows the model to capture more complex features.
 
 ### Variant 3: Expanded Fully Connected Layers
 
-<img src="./architectures/images/model_3.PNG" alt="drawing" width="500"/>
+<img src="./architectures/images/model_3.PNG" alt="drawing" width="600"/>
 
 - **Change**: Increased neurons in fully connected layers from (120, 84) to (200, 140).
 - **Purpose**: Enhances the model's ability to process complex features.
 
 ### Variant 4: Batch Normalization
 
-<img src="./architectures/images/model_4.PNG" alt="drawing" width="500"/>
+<img src="./architectures/images/model_4.PNG" alt="drawing" width="600"/>
 
 - **Change**: Added batch normalization after convolutional and fully connected layers.
 - **Purpose**: Stabilizes learning and reduces sensitivity to initial conditions.
