@@ -6,6 +6,8 @@ This project involves building a LeNet-based convolutional neural network (CNN) 
 
 An adaptation of the original LeNet architecture with modern enhancements:
 
+<img src="./architectures/images/model_1.PNG" alt="drawing" width="500"/>
+
 - **Activation Functions**: ReLU instead of Tanh.
 - **Pooling Layers**: Max-pooling instead of average-pooling.
 - **Architecture**:
