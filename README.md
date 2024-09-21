@@ -75,6 +75,8 @@ An adaptation of the original LeNet architecture with modern enhancements:
 
 ## Results
 
+<img src="./graphs/results.PNG" alt="drawing" width="600"/>
+
 - **Best Model**: Variant 4 achieved the highest validation accuracy.
 - **Test Set Evaluation**:
   - **Initial Best Model**: 92.5% accuracy.
