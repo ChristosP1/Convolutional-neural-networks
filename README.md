@@ -9,7 +9,6 @@ An adaptation of the original LeNet architecture with modern enhancements:
 - **Activation Functions**: ReLU instead of Tanh.
 - **Pooling Layers**: Max-pooling instead of average-pooling.
 - **Architecture**:
-  
   - **First Convolutional Layer**:
     - Input Channels: 1 (grayscale images)
     - Output Channels: 6
@@ -65,7 +64,6 @@ An adaptation of the original LeNet architecture with modern enhancements:
   - Training set split: 80% training, 20% validation.
 
 ## Results
-
 
 - **Best Model**: Variant 4 achieved the highest validation accuracy.
 - **Test Set Evaluation**:
