@@ -9,7 +9,7 @@ An adaptation of the original LeNet architecture with modern enhancements:
 - **Activation Functions**: ReLU instead of Tanh.
 - **Pooling Layers**: Max-pooling instead of average-pooling.
 - **Architecture**:
-![BaselineModel](./architectures/images/model_1.png)
+![BaselineModel](./architectures/images/model_1.PNG)
 
   - **First Convolutional Layer**:
     - Input Channels: 1 (grayscale images)
